@@ -40,7 +40,7 @@ You will find all the required assets in the `/images` folder. The assets are al
 There is also a `style-guide.md` file, which contains the information you'll need, such as color palette and fonts.
 
 ## Building your project
-dd
+
 Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
 
 1. Initialize your project as a public repository on [GitHub](https://github.com/). This will make it easier to share your code with the community if you need some help. If you're not sure how to do this, [have a read through of this Try Git resource](https://try.github.io/).
